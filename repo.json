@@ -1,0 +1,262 @@
+{
+  "name": "Leo's IPA Repo",
+  "identifier": "com.leo.repo",
+  "iconURL": "https://avatars.githubusercontent.com/u/122820851",
+  "website": "https://github.com/leofrachet11",
+  "apps": [
+    {
+      "name": "Bitdefender VPN",
+      "bundleIdentifier": "com.bitdefender.iosvpn",
+      "version": "2.3.8",
+      "versionDate": "2025-03-28",
+      "category": "utilities",
+      "size": 294231732,
+      "developerName": "Bitdefender",
+      "subtitle": "Safe, Fast and Secure VPN",
+      "localizedDescription": "Subscription unlocked.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/Bitdefender%20VPN.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/Bitdefender%20VPN.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/Bitdefender%20VPN.png"]
+    },
+    {
+      "name": "Car Scanner ELM OBD2",
+      "bundleIdentifier": "ovz.Car-Scanner",
+      "version": "1.101.4",
+      "versionDate": "2023-11-03",
+      "category": "utilities",
+      "size": 70973974,
+      "developerName": "OVZ",
+      "subtitle": "Diagnostic Tool for Cars",
+      "localizedDescription": "Premium unlocked.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/Car%20Scanner%20ELM%20OBD2.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/Car%20Scanner%20ELM%20OBD2.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/Car%20Scanner%20ELM%20OBD2.png"]
+    },
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "version": "1.7.1",
+      "versionDate": "2025-04-08",
+      "category": "games",
+      "size": 195949413,
+      "developerName": "Riley Testut",
+      "subtitle": "Multi-system Emulator",
+      "localizedDescription": "An all-in-one emulator for iOS.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/Delta.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/Delta.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/Delta.png"]
+    },
+    {
+      "name": "Duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "version": "7.77.0",
+      "versionDate": "2025-07-25",
+      "category": "education",
+      "size": 168519297,
+      "developerName": "Duolingo",
+      "subtitle": "Language Learning",
+      "localizedDescription": "Duolingo Max unlocked.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/Duolingo.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/Duolingo.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/Duolingo.png"]
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "version": "2.3.1",
+      "versionDate": "2025-08-08",
+      "category": "utilities",
+      "size": 12633984,
+      "developerName": "Samara",
+      "subtitle": "On-device signing application",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/Feather.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/Feather.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/Feather.png"]
+    },
+    {
+      "name": "Find Air",
+      "bundleIdentifier": "co.airapps.finderbot",
+      "version": "2025.7.4",
+      "versionDate": "2025-07-25",
+      "category": "utilities",
+      "size":  73918510,
+      "developerName": "Find Air",
+      "subtitle": "Bluetooth Item Finder",
+      "localizedDescription": "Premium unlocked.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/Find%20Air.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/Find%20Air.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/Find%20Air.png"]
+    },
+    {
+      "name": "Good Pizza, Great Pizza",
+      "bundleIdentifier": "com.tapblaze.pizzabusiness",
+      "version": "5.32.2",
+      "versionDate": "2025-07-08",
+      "category": "games",
+      "size": 287619006,
+      "developerName": "TapBlaze",
+      "subtitle": "Pizza Business Game",
+      "localizedDescription": "Tweaks unlocked.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/Good%20Pizza%2C%20Great%20Pizza.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/Good%20Pizza%2C%20Great%20Pizza.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/Good%20Pizza%2C%20Great%20Pizza.png"]
+    },
+    {
+      "name": "HD Flix",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "version": "2.0",
+      "versionDate": "2025-02-21",
+      "category": "entertainment",
+      "size": 14664935,
+      "developerName": "HD Flix",
+      "subtitle": "Free Streaming App",
+      "localizedDescription": "No Ads.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/HD%20Flix.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/HD%20Flix.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/HD%20Flix.png"]
+    },
+    {
+      "name": "MyFitnessPal",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "version": "25.29.0",
+      "versionDate": "2025-07-22",
+      "category": "health & fitness",
+      "size": 132510901,
+      "developerName": "MyFitnessPal",
+      "subtitle": "Calorie Counter & Tracker",
+      "localizedDescription": "Subscription unlocked.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/MyFitnessPal.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/MyFitnessPal.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/MyFitnessPal.png"]
+    },
+    {
+      "name": "PlenixRoyale",
+      "bundleIdentifier": "co.plenixroyale.server.e",
+      "version": "10.455.11",
+      "versionDate": "2025-07-05",
+      "category": "games",
+      "size": 713405616,
+      "developerName": "Plenix",
+      "subtitle": "Unofficial Clash Royale Server",
+      "localizedDescription": "Clash Royale server with unlimited gems and unlimited gold!",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/PlenixRoyale.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/PlenixRoyale.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/PlenixRoyale.png"]
+    },
+    {
+      "name": "ReLens",
+      "bundleIdentifier": "com.risingcabbage.pro.camera",
+      "version": "4.5.1",
+      "versionDate": "2024-06-03",
+      "category": "photo & video",
+      "size": 284412624,
+      "developerName": "ReLens",
+      "subtitle": "Professional Camera App",
+      "localizedDescription": "ReLens Pro unlocked.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/ReLens.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/ReLens.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/ReLens.png"]
+    },
+    {
+      "name": "SimplyPiano",
+      "bundleIdentifier": "com.joytunes.asla",
+      "version": "9.10.20",
+      "versionDate": "2025-07-20",
+      "category": "education",
+      "size": 140128609,
+      "developerName": "JoyTunes",
+      "subtitle": "Interactive Piano Lessons",
+      "localizedDescription": "Premium unlocked.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/SimplyPiano.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/SimplyPiano.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/SimplyPiano.png"]
+    },
+    {
+      "name": "Twitch",
+      "bundleIdentifier": "tv.twitch",
+      "version": "22.0",
+      "versionDate": "2024-11-07",
+      "category": "entertainment",
+      "size": 96581489,
+      "developerName": "Twitch",
+      "subtitle": "Live Streaming Platform",
+      "localizedDescription": "Twitch with No Ads.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/Twitch.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/Twitch.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/Twitch.png"]
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "19.34.2",
+      "versionDate": "2024-09-03",
+      "category": "entertainment",
+      "size": 103674391,
+      "developerName": "Google",
+      "subtitle": "Video Streaming & Sharing",
+      "localizedDescription": "YouTube for iOS, supercharged with YouTube Plus (ex. YTLite) and several other tweaks.",
+      "downloadURL": "https://github.com/leofrachet11/Sideloading/raw/main/IPAs/YouTube.ipa",
+      "iconURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Icons/YouTube.png",
+      "screenshotURLs": ["https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/YouTube.png"]
+    }
+  ],
+  "news": [
+    {
+      "title": "FilePickerFix dylib",
+      "identifier": "filepickerfix.dylib",
+      "caption": "Click to download the dylib",
+      "url": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Dylibs/FilePickerFix.dylib",
+      "imageURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/dylib.png"
+    },
+    {
+      "title": "AdBlocker dylib",
+      "identifier": "adblocker.dylib",
+      "caption": "Click to download the dylib",
+      "url": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Dylibs/AdBlocker.dylib",
+      "imageURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/dylib.png"
+    },
+    {
+      "title": "SideloadKeychainFix dylib",
+      "identifier": "sideloadkeychainfix.dylib",
+      "caption": "Click to download the dylib",
+      "url": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Dylibs/SideloadKeychainFix.dylib",
+      "imageURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/dylib.png"
+    },
+    {
+      "title": "Sideloadbypass2 dylib",
+      "identifier": "sideloadbypass2.dylib",
+      "caption": "Click to download the dylib",
+      "url": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Dylibs/Sideloadbypass2.dylib",
+      "imageURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/dylib.png"
+    },
+    {
+      "title": "Sideloadbypass1 dylib",
+      "identifier": "sideloadbypass1.dylib",
+      "caption": "Click to download the dylib",
+      "url": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Dylibs/Sideloadbypass1.dylib",
+      "imageURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/dylib.png"
+    },
+    {
+      "title": "sideloadFixerLol dylib",
+      "identifier": "sideloadfixerlol.dylib",
+      "caption": "Click to download the dylib",
+      "url": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Dylibs/sideloadFixerLol.dylib",
+      "imageURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/dylib.png"
+    },
+    {
+      "title": "iOSGodsPatch dylib",
+      "identifier": "iosgodspatch.dylib",
+      "caption": "Click to download the dylib",
+      "url": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Dylibs/iOSGodsPatch.dylib",
+      "imageURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/dylib.png"
+    },
+    {
+      "title": "Repos",
+      "identifier": "repos",
+      "caption": "Click to download the repos",
+      "url": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/repos.txt",
+      "imageURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/repos.png"
+    }
+  ]
+}
