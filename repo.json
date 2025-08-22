@@ -255,8 +255,8 @@
       "title": "Repos",
       "identifier": "repos",
       "caption": "Click to download the repos",
-      "url": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/repos.txt",
-      "imageURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/repos.png"
+      "url": "https://github.com/leofrachet11/Sideloading/releases/download/Repos/Repos.txt",
+      "imageURL": "https://raw.githubusercontent.com/leofrachet11/Sideloading/main/Screenshots/Repos.png"
     }
   ]
 }
